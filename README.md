@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaksymekM
 - 👀 I’m interested in Software Testing, Crypto and road trips
 - 🌱 I’m currently learning Software Testing
-- 💞️ I’m looking for job as QA/QC Engineer
+- 💞️ I’m working as as QA Engineer
 - 📫 You can reach me via email: malgiwski@gmail.com
 
 <!---
