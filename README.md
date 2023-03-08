@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaksymekM
 - 👀 I’m interested in Software Testing, Crypto and road trips
-- 🌱 I’m currently learning Software Testing
+- 🌱 I'm constantly improving my knowledge of Software testing. Also I am learning JavaScript.
 - 💞️ I’m working as as QA Engineer
 - 📫 You can reach me via email: malgiwski@gmail.com
 
